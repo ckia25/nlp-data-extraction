@@ -1,4 +1,6 @@
-# nlp-data-extraction
+# COS484 FINAL PROJECT by Caiden Kiani, Avi Attar, and Hugh Shields.
+
+# Title: Strategies for Training Data Extraction from Large Language Models
 
 ## Content Description:
 
