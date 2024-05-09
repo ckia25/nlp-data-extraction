@@ -14,6 +14,8 @@
 
 **membership_inference.ipynb:** This is the Python notebook used to compute the sorting metrics for the top-n experiment.
 
+**paper.pdf** This is the paper for the final project: Strategies for Training Data Extraction from Large Language Models.
+
 **wiki_data.ipynb:** This is the Python notebook used to download the Wikipedia data and select the random wiki pages for the wiki experiment. Some of the code in this file was taken from https://github.com/noanabeshima/wikipedia-downloader
 
 
